@@ -1,0 +1,2320 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-03 14:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: es_MX\n"
+"Project-Id-Version: Plugins - The Events Calendar - Stable (latest release)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-03 14:17+0000\n"
+"Last-Translator: chalosalvador <chalo.salvador@grupomenta.com>\n"
+"Language-Team: Español de México\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+msgid " (View Full %1$s Description Here: %2$s)"
+msgstr " (Ver descripción completa %1$s Descripción: %2$s)"
+
+msgid " (opens in a new window)"
+msgstr "(se abre en una nueva ventana)"
+
+msgctxt "separator between date and time"
+msgid " at "
+msgstr "a las"
+
+msgctxt "separator used in a list of items"
+msgid ", "
+msgstr ","
+
+msgid "tag"
+msgstr "etiqueta"
+
+msgid "the event category term ID"
+msgstr "el ID de la categoría del evento"
+
+msgid "the event post ID"
+msgstr "ID de publicación del evento"
+
+msgid "the event post name"
+msgstr "Nombre de la entrada del evento"
+
+msgid "the event tag term ID"
+msgstr "el ID del término de la etiqueta del evento "
+
+msgctxt "the final separator in a list of two or more items"
+msgid " and "
+msgstr " y  "
+
+msgid "the organizer post ID"
+msgstr "ID de la entrada del organizador"
+
+msgid "the organizer post name"
+msgstr "Nombre de la entrada del organizador"
+
+msgid "the venue post ID"
+msgstr "El ID de publicación del sitio"
+
+msgid "the venue post name"
+msgstr "El nombre de la entrada del sitio "
+
+msgid "three months"
+msgstr "tres meses"
+
+msgid "three weeks"
+msgstr "tres semanas"
+
+msgid "timezone settings"
+msgstr "configuración de la zona horaria"
+
+msgid "to change how the actual time is displayed on your calendar."
+msgstr "para cambiar cómo se muestra la hora actual en tu calendario."
+
+msgid "today"
+msgstr "hoy"
+
+msgid "two months"
+msgstr "dos meses"
+
+msgid "two weeks"
+msgstr "dos semanas"
+
+msgid "unknown date"
+msgstr "fecha desconocida"
+
+msgid "upcoming"
+msgstr "próximos"
+
+msgid "updated"
+msgstr "Actualizado"
+
+msgid "venue"
+msgstr "lugar"
+
+msgid "venues"
+msgstr "lugares"
+
+msgid "version data missing from override"
+msgstr "faltan los datos de versión de la anulación"
+
+msgctxt "when the retry will happen, a date"
+msgid "retrying at %s"
+msgstr "reintentándolo el %s"
+
+msgid "you can modify this setting here."
+msgstr "puedes modificar este ajuste aquí."
+
+msgid "month"
+msgstr "mes"
+
+msgctxt "month view"
+msgid "%1$s for %2$s"
+msgstr "%1$s en %2$s"
+
+msgid "new"
+msgstr "nuevo"
+
+msgctxt "non-existant function name passed for field validation"
+msgid "with function name:"
+msgstr "con el nombre de la función:"
+
+msgctxt "not available"
+msgid "n/a"
+msgstr "no disponible"
+
+msgid "one month"
+msgstr "un mes"
+
+msgid "one week"
+msgstr "una semana"
+
+msgid "open-source forum on WordPress.org"
+msgstr "foro open-source en WordPress.org"
+
+msgid "opens in a new window"
+msgstr "se abre en una nueva ventana"
+
+msgid "organizer"
+msgstr "organizador"
+
+msgid "organizers"
+msgstr "organizadores"
+
+msgid "page"
+msgstr "página"
+
+msgid "past"
+msgstr "pasados"
+
+msgid "post a thread"
+msgstr "publicar un hilo"
+
+msgid "post moved to Ignored."
+msgstr "entrada movida a Ignorado."
+
+msgid "all"
+msgstr "todos"
+
+msgctxt "all events slug"
+msgid "all"
+msgstr "Todo"
+
+msgid "all time"
+msgstr "todo el tiempo"
+
+msgid "and %s post moved to Ignored."
+msgstr "y %s publicación movida a Ignorado."
+
+msgid ""
+"When importing from an event source, this is how far into the future the "
+"events will be fetched; on slower websites a larger date range may impact "
+"the success of imports. Selecting a shorter time period may improve results."
+msgstr ""
+"Cuando se esté importando desde una fuente de eventos, esta será la fecha "
+"futura máxima de los eventos que serán importados. En sitios más lentos esto "
+"puede afectar al éxito de las importaciones. Ajustando este parámetro a un "
+"periodo de tiempo menor puede mejorar los resultados. "
+
+msgid ""
+"When importing from an event source, this is the maximum number of events "
+"that will be imported; on slower websites this may impact the success of "
+"imports. Setting this to a smaller number may improve results."
+msgstr ""
+"Cuando se esté importando desde una fuente de eventos, este será el máximo "
+"número de eventos que serán importados. En sitios más lentos esto puede "
+"afectar al éxito de las importaciones. Ajustando este parámetro a un número "
+"menor puede mejorar los resultados."
+
+msgid ""
+"When purchasing Eventbrite Tickets, attendee, purchaser, and order "
+"information are stored and managed by Eventbrite."
+msgstr ""
+"Al comprar entradas de Eventbrite Tickets, Eventbrite almacena y administra "
+"la información de los asistentes, compradores y pedidos."
+
+msgid ""
+"When this import was last scheduled to run, the daily limit for your Event "
+"Aggregator license had already been reached."
+msgstr ""
+"Cuando se programó por última vez la ejecución de esta importación, ya se "
+"había alcanzado el límite diario para su licencia del Agregador de eventos."
+
+msgid ""
+"When you save this scheduled import, the events above will begin importing."
+msgstr ""
+"Cuando guarde esta importación programada, los eventos de arriba comenzarán "
+"su importación."
+
+msgid "Where We Send Your Data"
+msgstr "Donde enviamos tu información"
+
+msgid "Where's my calendar?"
+msgstr "¿Donde se encuentra mi calendario?"
+
+msgid "Whether an event is sticky in the calendar view or not"
+msgstr "Si un evento está pegado en la vista de calendario o no"
+
+msgid "Whether an event should be hidden from the calendar view or not"
+msgstr "Si un evento debe estar oculto en la vista de calendario o no"
+
+msgid "Whether events linked to the venue should show a map link or not"
+msgstr ""
+"Si los eventos enlazados al sitio se deberían mostrar en un enlace del mapa "
+"o no "
+
+msgid "Whether events linked to the venue should show a map or not"
+msgstr "Si los eventos enlazados al sitio se deberían mostrar en el mapa o no "
+
+msgid "Whether events should be hidden in the calendar view or not"
+msgstr "Si el evento debe ser ocultado en la vista de calendario o no"
+
+msgid "Whether or not this event is an all day Event"
+msgstr "Si este evento es de todo un día o no"
+
+msgid "Whether the event is featured in the calendar or not"
+msgstr "Si un evento está destacado en la vista de calendario o no"
+
+msgid "Whether the event lasts the whole day or not"
+msgstr "Si el evento dura todo el día o no"
+
+msgid "Whether the event should be featured on the site or not"
+msgstr "Si el evento debe aparecer destacado en el sitio o no"
+
+msgid "Whether the event should be sticky in the calendar view or not"
+msgstr "Si el evento debe ser fijado en la vista de calendario o no"
+
+msgid "Whether the event should show a map link or not"
+msgstr "Si el evento debe mostrar un enlace al mapa o no"
+
+msgid "Whether the event should show a map or not"
+msgstr "Si el evento debe mostrar un mapa o no"
+
+msgid "Whether the map link should be shown for the event or not"
+msgstr "Si el enlace al mapa mapa debe mostrarse para el evento o no"
+
+msgid "Whether the map link should be shown for the venue or not"
+msgstr "Si el enlace al mapa debe mostrarse para el lugar o no"
+
+msgid "Whether the map should be shown for the event or not"
+msgstr "Si el mapa debe mostrarse para el evento o no"
+
+msgid "Whether the map should be shown for the venue or not"
+msgstr "Si el map debe mostrarse para el lugar o no"
+
+msgid ""
+"While the resources above help solve a majority of the issues we see, there "
+"are times you might be looking for extra support. If you need assistance "
+"using our plugins and would like us to take a look, please follow these "
+"steps:"
+msgstr ""
+"Aunque los recursos incluidos ayudan a resolver la mayoría de los problemas "
+"que observamos, en ocasiones puede estar buscando mayor soporte. Si necesita "
+"ayuda utilizando nuestros plugins y le gustaría que le diéramos una mirada, "
+"por favor siga estos pasos:"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+msgid ""
+"Without a defined location your event will not display a %sGoogle Rich "
+"Snippet%s on the search results."
+msgstr ""
+"Sin una ubicación definida, su evento no mostrará %sGoogle Rich Snippet%s en "
+"los resultados de búsqueda."
+
+msgid "WordPress "
+msgstr "WordPress "
+
+msgid "Wyoming"
+msgstr "Wyoming"
+
+msgctxt "X (kilometers abbreviation)"
+msgid "%1$s (km)"
+msgstr "%1$s (km)"
+
+msgctxt "X (miles abbreviation)"
+msgid "%1$s (mi)"
+msgstr "%1$s (mi)"
+
+msgid "YYYY-MM-DD"
+msgstr "AAAA-MM-DD"
+
+msgid "Yemen"
+msgstr "Yemen"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid ""
+"Yes, automatically share my system information with the Modern Tribe support "
+"team"
+msgstr ""
+"Sí, comparto automáticamente la información de mi sistema con el equipo de "
+"soporte de Modern Tribe"
+
+msgid "Yesterday"
+msgstr "Ayer"
+
+msgid ""
+"You %1$scannot%2$s use the same slug as above. The above should ideally be "
+"plural, and this singular.%3$sYour single Event URL is like: %4$s"
+msgstr ""
+"%1$sNo puedes%2$s usar el mismo slug de antes. Recomendamos que el anterior "
+"sea el plural y éste el singular.%3$sLa URL para un único evento debe ser "
+"como:%4$s"
+
+msgid ""
+"You are approaching your daily import limit. You may want to adjust your "
+"Scheduled Import frequencies."
+msgstr ""
+"Estás acercándote a tu límite de importación diario. Si quieres puedes "
+"ajustar la frecuencia de tus importaciones programadas."
+
+msgid "You are running Version %s and deserve a hug :-)"
+msgstr "Estás usando la versión %s y te mereces un abrazo :-)"
+
+msgid "You are up to date!"
+msgstr "¡Se encuentra actualizado!"
+
+msgid ""
+"You can always check the status of your licenses by logging in to %1$syour "
+"account on theeventscalendar.com%2$s."
+msgstr ""
+"Puedes revisar el estado de tus licencias en cualquier momento iniciando "
+"sesión en %1$stu cuenta en theeventscalendar.com%2$s."
+
+msgid "You can find the url you need in your Google Calendar settings."
+msgstr "Puede encontrar el URL que necesita en sus ajustes de Google Calendar."
+
+msgid "You cannot delete a history record (ID: \"%d\"). "
+msgstr "Ya no puedes borrar el archivo histórico (ID: %d\")"
+
+msgid "You do not have a license"
+msgstr "No tienes una licencia"
+
+msgid "You do not have permission to delete this record."
+msgstr "No tienes permiso para eliminar este registro."
+
+msgid ""
+"You do not have permission to migrate Facebook Events settings to Event "
+"Aggregator"
+msgstr ""
+"No tiene permisos para migrar ajustes de Eventos de Facebook al Agregador de "
+"Eventos"
+
+msgid "You do not have permission to migrate Legacy Ignored Events"
+msgstr "No tienes permiso para migrar eventos heredados heredados"
+
+msgid ""
+"You do not have permission to migrate iCal Importer settings to Event "
+"Aggregator"
+msgstr ""
+"No tiene permisos para migrar ajustes de Eventos de iCal al Agregador de "
+"Eventos "
+
+msgid "You do not have permission to restore this post."
+msgstr "No tienes permiso para restablecer esta entrada."
+
+msgid "You don't have permission to do that."
+msgstr "No tienes permiso para hacer eso."
+
+msgid ""
+"You have a license key for %1$s but the key is out of installs. %2$sVisit "
+"the Events Calendar website%3$s to manage your installs, upgrade your "
+"license, or purchase a new one."
+msgstr ""
+"Singular: Tiene una clave de licencia para %1$s pero la clave no tiene "
+"instalación. %2$s Visite el sitio web de Events Calendar %3$s para "
+"administrar sus instalaciones, actualizar su licencia o comprar una nueva."
+
+msgid "The event venue ID or data"
+msgstr "El ID o data del lugar del evento"
+
+msgid "The event website URL"
+msgstr "URL del sitio web del evento"
+
+msgid "The event with the specified ID could not be deleted."
+msgstr "El evento con el ID definido podría no ser eliminado."
+
+msgid "The event with the specified ID has been deleted already."
+msgstr "El evento con el ID definido ya ha sido eliminado."
+
+msgid "The event with the specified ID is not accessible."
+msgstr "No se puede acceder al evento con el ID especificado."
+
+msgid ""
+"The file provided could not be opened. Please confirm that it is a properly "
+"formatted .ics file."
+msgstr ""
+"El archivo proporcionado no se puede abrir. Por favor, confirma que es un "
+"archivo .ics correcto."
+
+msgid "The file went away. Please try again."
+msgstr "El archivo desapareció. Por favor inténtalo de nuevo."
+
+msgid "The following fields are required for a successful import:"
+msgstr ""
+"Los siguientes campos son necesarios para lograr una importación correcta:"
+
+msgid ""
+"The following plugins are out of date: %1$s. All add-ons contain "
+"dependencies on The Events Calendar and will not function properly unless "
+"paired with the right version. %2$sLearn More%3$s."
+msgstr ""
+"Los siguientes complementos están desactualizados: %1$s. Todos los "
+"complementos contienen dependencias en el Calendario de eventos y no "
+"funcionarán correctamente a menos que estén emparejados con la versión "
+"correcta. %2$sMás información%3$s."
+
+msgid ""
+"The following preview does not necessarily contain all of the data from your "
+"CSV file. The data displayed below is meant as a guide to help you map your "
+"CSV file's columns to the appropriate Event fields."
+msgstr ""
+"La siguiente vista previa no contiene necesariamente todos los datos de su "
+"archivo CSV. Los datos que se muestran a continuación son una guía para "
+"ayudarlo a mapear las columnas de su archivo CSV a los campos de eventos "
+"apropiados."
+
+msgid "The function needs to be passed an $event or used in the loop."
+msgstr ""
+"La función necesita un $event como parámetro o ser usada en el bucle "
+"principal."
+
+msgid ""
+"The hash of the next expected batch, as previously provided by the client"
+msgstr ""
+"El hash del siguiente lote esperado, como fue proporcionado previamente por "
+"el cliente"
+
+msgid "The image WordPress post ID"
+msgstr "ID de publicación de WordPress de la imagen"
+
+msgid ""
+"The image associated with your event could not be attached to the event."
+msgstr "La imagen asociada al evento no pudo ser adjuntada al evento."
+
+msgid "The image associated with your event could not be imported."
+msgstr "La imagen asociada a su evento no se pudo importar."
+
+msgid ""
+"The image associated with your event is not accessible with your API key."
+msgstr "La imagen asociada a su evento no es accesible con su clave de API."
+
+msgid "The image file extension"
+msgstr "Extensión de archivo de la imagen"
+
+msgid "The image height in pixels in the specified size"
+msgstr "Altura de la imagen en píxeles en el tamaño especificado"
+
+msgid "The image mime-type"
+msgstr "El mime-type de la imagen"
+
+msgid "The image natural height in pixels"
+msgstr "Altura original de la imagen en píxeles"
+
+msgid "The image natural width in pixels"
+msgstr "Anchura original de la imagen en píxeles"
+
+msgid "The image width in pixels in the specified size"
+msgstr "Anchura de la imagen en píxeles en el tamaño especificado"
+
+msgid ""
+"The import failed for an unknown reason. Please try again. If the problem "
+"persists, please contact support."
+msgstr ""
+"La importación falló por una razón desconocida. Ppr favor inténtalo de nuevo."
+" Si el problema continua, por favor contacta con el servicio de soporte."
+
+msgid "The import is in progress."
+msgstr "La importación esta en progreso."
+
+msgid "The import record is missing the origin."
+msgstr "Al registro de importación le falta el origen."
+
+msgid "The import unique ID as provided by Event Aggregator service"
+msgstr ""
+"El ID único de importación proporcionada por el servicio Event Agregador"
+
+msgid "The import will be starting soon."
+msgstr "La importación comenzará pronto."
+
+msgid "The last time this event was imported and/or updated via import."
+msgstr ""
+"La última vez que se importó y / o actualizó este evento mediante "
+"importación."
+
+msgid "The link to the image in the specified size on the site"
+msgstr "El enlace a la imagen en el tamaño especificado en el sitio"
+
+msgid "The new status message for the user, not localized."
+msgstr "El nuevo mensaje de estado para el usuario, no localizado."
+
+msgid "The new status message slug, to allow for localized messages."
+msgstr "El nuevo mensaje de estado slug, para permitir mensajes localizados."
+
+msgid "The new status of the import."
+msgstr "El nuevo estado de la importación."
+
+msgid "The next import is scheduled for %1$s."
+msgstr "La siguiente importación está programada para %1$s."
+
+msgid "The number of event categories to return on each page"
+msgstr "La cantidad de categorías de eventos para devolver en cada página"
+
+msgid "The number of event tags to return on each page"
+msgstr "La cantidad de etiquetas de evento para devolver en cada página"
+
+msgid ""
+"The number of events available in the preview may be limited by your "
+"%1$sImport Settings.%2$s"
+msgstr ""
+"La cantidad de eventos disponibles en la vista previa puede estar limitada "
+"por tu  %1$sConfiguración de importación.%2$s"
+
+msgid ""
+"The number of events per page on the List View. Does not affect other views."
+msgstr ""
+"La cantidad de eventos por página en la vista de lista. No afecta a otras "
+"vistas."
+
+msgid ""
+"The number of events per page on the List, Photo, and Map Views. Does not "
+"affect other views."
+msgstr ""
+"La cantidad de eventos por página en la vistas de Lista, Foto y Mapa. No "
+"afecta a otras vistas. "
+
+msgid "The number of events to return on each page"
+msgstr "El número de eventos a devolver en cada página"
+
+msgid "The number of organizers to return on each page"
+msgstr "La cantidad de organizadores a devolver en cada página"
+
+msgid "The number of posts associated with the term"
+msgstr "La cantidad de publicaciones asociadas con el término"
+
+msgid "The number of venues to return on each page"
+msgstr "La cantidad de lugares para regresar en cada página"
+
+msgid "The organizer ID used to globally identify in Event Aggregator"
+msgstr ""
+"La ID del organizador utilizada para identificarlo globalmente en Event "
+"Aggregator"
+
+msgid "The organizer WordPress post ID"
+msgstr "ID de publicación de WordPress del organizador"
+
+msgid "The organizer author ID"
+msgstr "ID del organizador"
+
+msgid "The organizer author WordPress post ID"
+msgstr "ID de autor de WordPress del organizador"
+
+msgid "The organizer could not be created from the provided data"
+msgstr " \tNo se pudo crear el organizador con los datos proporcionados "
+
+msgid "The organizer could not be deleted"
+msgstr "El organizador no se ha podido borrar"
+
+msgid "The organizer could not be updated"
+msgstr "El organizador no se ha podido actualizar "
+
+msgid "The organizer creation date in UTC time"
+msgstr "Fecha de creación del organizador en hora UTC"
+
+msgid "The organizer creation date in the site time zone"
+msgstr "Fecha de creación del organizador en el uso horario del sitio"
+
+msgid "The organizer description"
+msgstr "Descripción del organizador"
+
+msgid "The organizer e-mail address"
+msgstr "El correo electrónico del organizador"
+
+msgid "The organizer email address"
+msgstr "Correo electrónico del organizador"
+
+msgid "The organizer featured image ID or URL"
+msgstr "ID  o URL de la imagen destacada del organizador"
+
+msgid "The organizer is already trashed"
+msgstr " \tEl organizador ya está en la papelera "
+
+msgid "The organizer last modification date in UTC time"
+msgstr "Fecha de la última modificación del organizador en hora UTC"
+
+msgid "The organizer last modification date in the site time zone"
+msgstr ""
+"Fecha de la última modificación del organizador en el uso horario del sitio"
+
+msgid "The organizer long description"
+msgstr "Descripción larga del organizador"
+
+msgid "The organizer name"
+msgstr "Nombre del organizador"
+
+msgid "The organizer phone number"
+msgstr "Número de teléfono del organizador"
+
+msgid "The organizer post ID is missing or does not exist."
+msgstr "El ID de la entrada del organizador falta o no está presente."
+
+msgid "The organizer post ID is missing."
+msgstr "Falta la ID de la entrada del organizador "
+
+msgid "The organizer post status"
+msgstr "Estado de la entrada del organizador"
+
+msgid "The organizer publication date"
+msgstr "Fecha de publicación del organizador"
+
+msgid "The organizer publication date (UTC time zone)"
+msgstr "Fecha de publicación del organizador (UTC zona horaria)"
+
+msgid "The organizer short description"
+msgstr "Descripción corta del organizador"
+
+msgid "The organizer slug"
+msgstr "El slug del organizador"
+
+msgid "The organizer status"
+msgstr "El estado del organizador"
+
+msgid "The organizer website"
+msgstr "Sitio web del organizador"
+
+msgid "The organizer with the specified ID could not be deleted."
+msgstr "El organizador con el ID proporcionado no puede ser eliminado."
+
+msgid "The organizer with the specified ID has been deleted already."
+msgstr "El organizador con el ID proporcionado ya ha sido eliminado."
+
+msgid "The organizer with the specified ID is not accessible."
+msgstr "No se puede acceder al organizador con el ID especificado."
+
+msgid "The percentage of import completed."
+msgstr "El porcentaje de importación completada."
+
+msgid "The position of the currency symbol in the cost string"
+msgstr "La posición del símbolo de moneda junto al precio"
+
+msgid ""
+"The preview is taking longer than expected. Please try again in a moment."
+msgstr ""
+"La previsualización tarda más de lo esperado. Por favor, inténtalo de nuevo "
+"en un momento."
+
+msgid "The provided linked post ID is not valid"
+msgstr "El ID de publicación enlazada proporcionado no es válido"
+
+msgid ""
+"The records you were attempting to import were still not available when this "
+"queue was processed. Please try again."
+msgstr ""
+"Los registros que intentaba importar aún no estaban disponibles cuando se "
+"procesó esta cola. Inténtalo de nuevo."
+
+msgid "The request was sent insecurely."
+msgstr "La solicitud se ha enviado de forma no segura."
+
+msgid "The request wasn't sent from this tab."
+msgstr "La solicitud no ha sido enviado desde esta pestaña."
+
+msgid ""
+"The requested URL does not have any upcoming and published events matching "
+"the search criteria."
+msgstr ""
+"La URL solicitada no contiene eventos próximos ni publicados que coincidan "
+"con los criterios de búsqueda."
+
+msgid ""
+"The requested date \"%s\" was not valid &ndash; showing the current month "
+"instead"
+msgstr ""
+"La fecha \"%s\" no es válida &ndash; se muestra el mes actual en lugar de "
+"éste."
+
+msgid "The requested event archive page does not exist"
+msgstr "La página de archivo de evento solicitada no existe"
+
+msgid "The requested event is not accessible"
+msgstr "El evento solicitado no está accesible"
+
+msgid "The requested event term archive page does not exist"
+msgstr "La página de archivo del término de evento solicitada no existe "
+
+msgid "The requested organizer archive page does not exist"
+msgstr "The requested organizer archive page does not exist "
+
+msgid "The requested organizer is not accessible"
+msgstr "No se puede acceder al organizador solicitado "
+
+msgid "The requested page was not found."
+msgstr "No se ha encontrado la página solicitada."
+
+msgid "The requested post ID does not exist or is not an event"
+msgstr "La ID de publicación solicitada no existe o no se trata de un evento"
+
+msgid "The requested post ID does not exist or is not an organizer"
+msgstr ""
+"La ID de publicación solicitada no existe o no se trata de un organizador"
+
+msgid "The requested post ID does not exist or is not an venue"
+msgstr "La ID de publicación solicitada no existe o no es un lugar"
+
+msgid ""
+"The requested source does not have any upcoming and published events "
+"matching the search criteria."
+msgstr ""
+"La fuente proporcionada no tiene eventos próximos ni publicados que "
+"coincidan con los criterios de búsqueda."
+
+msgid "The requested venue archive page does not exist"
+msgstr " \tLa página de archivo del lugar solicitada no existe "
+
+msgid "The requested venue is not accessible"
+msgstr "No se puede acceder al sitio solicitado "
+
+msgid ""
+"The response from the Event Aggregator server was badly formed and could not "
+"be understood. Please try again."
+msgstr ""
+"La respuesta del servidor Event Aggregator se creó mal y no se pudo "
+"comprender. Por favor, inténtalo de nuevo."
+
+msgid "The selected log file is empty or has not been generated yet."
+msgstr ""
+"El archivo de registro seleccionado esta vácio o no ha sido generado todavía."
+
+msgid "The server is not currently responding"
+msgstr "El servidor no esta respondiendo actualmente"
+
+msgid "The server is responding with an error:"
+msgstr "El servidor esta respondiendo con el error:"
+
+msgid "The service has disabled oAuth. Some types of events may not import."
+msgstr ""
+"El servicio ha desactivado oAuth. Algunos tipos de eventos no podrán ser "
+"importados."
+
+msgid ""
+"The settings below control the display of your calendar. If things don't "
+"look right, try switching between the three style sheet options or pick a "
+"page template from your theme."
+msgstr ""
+"Los siguientes ajustes controlan la visualización de tu calendario. Si las "
+"cosas no se ven correctamente, prueba a cambiar entre las tres posibles "
+"opciones o elige una plantilla de página de tu tema."
+
+msgid "The slug used for building the events URL."
+msgstr "El slug utilizado para construir la URL de los eventos."
+
+msgid "The taxonomy the term belongs to"
+msgstr "La taxonomía a la que pertenece el término"
+
+msgid "The term description"
+msgstr "La descripción del término"
+
+msgid "The term name"
+msgstr "Nombre del término."
+
+msgid "The term parent term if any"
+msgstr "El término del término padre si lo hay"
+
+msgid "The term slug"
+msgstr "Slug del término"
+
+msgid "The user is not authorized to create event categories"
+msgstr "El usuario no está autorizado para crear categorías de eventos"
+
+msgid "The user is not authorized to create event tags"
+msgstr "El usuario no esta autorizado para crear etiquetas de eventos"
+
+msgid "The user is not authorized to create events"
+msgstr "El usuario no está autorizado a crear eventos"
+
+msgid "The user is not authorized to create organizers"
+msgstr "El usuario no está autorizado a crear organizadores"
+
+msgid "The user is not authorized to create venues"
+msgstr "El usuario no está autorizado para crear sitios"
+
+msgid "The venue ID used to globally identify in Event Aggregator"
+msgstr "ID del lugar usada para identificarla globalmente en Event Aggregator"
+
+msgid "The venue WordPress post ID"
+msgstr "ID de publicación de WordPress del lugar"
+
+msgid "The venue ZIP code"
+msgstr "Código postal del lugar"
+
+msgid "The venue address"
+msgstr "Dirección del lugar"
+
+msgid "The venue author ID"
+msgstr "El ID de autor del sitio"
+
+msgid "The venue author WordPress post ID"
+msgstr "El ID de la entrada de WordPress del autor del lugar"
+
+msgid "The venue city"
+msgstr "Ciudad del lugar"
+
+msgid "The venue could not be created from the provided data"
+msgstr "No se pudo crear el sitio con los datos proporcionados "
+
+msgid "The venue could not be deleted"
+msgstr "El sitio no se ha podido borrar "
+
+msgid "The venue could not be updated"
+msgstr "El lugar no se ha podido actualizar "
+
+msgid "The venue country"
+msgstr "País del lugar"
+
+msgid "The venue creation date in UTC time"
+msgstr "Fecha de creación del lugar en hora UTC"
+
+msgid "The venue creation date in the site time zone"
+msgstr "Fecha de creación del lugar en el uso horario del sitio"
+
+msgid "The venue description"
+msgstr "La descripción del sitio "
+
+msgid "The venue geo latitude"
+msgstr "La latitud del lugar"
+
+msgid "The venue geo longitude"
+msgstr "La longitud del lugar"
+
+msgid "The venue is already trashed"
+msgstr "El sitio ya está en la papelera "
+
+msgid "The venue last modification date in UTC time"
+msgstr "Fecha de la última modificación del lugar en hora UTC"
+
+msgid "The venue last modification date in the site time zone"
+msgstr ""
+"La fecha de la última modificación del lugar en el uso horario del sitio"
+
+msgid "The venue long description"
+msgstr "Descripción larga del lugar"
+
+msgid "The venue name"
+msgstr "Nombre del lugar"
+
+msgid "The venue phone number"
+msgstr "Número de teléfono del lugar"
+
+msgid "The venue post ID is missing or does not exist."
+msgstr "El ID de publicación del sitio no está presente o no existe."
+
+msgid "The venue post ID is missing."
+msgstr "El ID de publicación del sitio no está presente."
+
+msgid "The venue post status"
+msgstr "El estado de la entrada del sitio "
+
+msgid "The venue province"
+msgstr "Provincia del lugar"
+
+msgid "The venue publication date"
+msgstr "La fecha de publicación del sitio"
+
+msgid "The venue publication date (UTC time zone)"
+msgstr "La fecha de publicación del sitio (Zona horaria UTC)"
+
+msgid "The venue short description"
+msgstr "Descripción corta del lugar"
+
+msgid "The venue slug"
+msgstr "El slug del lugar"
+
+msgid "The venue state"
+msgstr "Estado del lugar"
+
+msgid "The venue state and province"
+msgstr "Estado y provincia del sitio"
+
+msgid "The venue state or province"
+msgstr "Estado o provincia del lugar"
+
+msgid "The venue status"
+msgstr "El estado del lugar"
+
+msgid "The venue website URL"
+msgstr "URL del sitio web del lugar"
+
+msgid "The venue with the specified ID could not be deleted."
+msgstr "El sitio con el ID especificado no puede ser borrado."
+
+msgid "The venue with the specified ID has been deleted already."
+msgstr "El sitio con el ID especificado ya ha sido borrado."
+
+msgid "The venue with the specified ID is not accessible."
+msgstr "El evento con el ID especificado no es accesible."
+
+msgid "Themer’s Guide"
+msgstr "Guía del diseñador de temas"
+
+msgid ""
+"There are going to be situations where no out-of-the-box template is 100&#37;"
+" perfect. Check out our <a href=\"%s\">our themer's guide</a> for "
+"instructions on custom modifications."
+msgstr ""
+"Habrá situaciones en las que la plantilla inicial no se adapte a la "
+"perfección. Echa un vistazo a nuestra <a href=\"%s\">guía de "
+"personalización</a> para hacer modificaciones específicas."
+
+msgid "There are no fields setup for this tab yet."
+msgstr "Todavía no hay campos definidos para esta pestaña."
+
+msgid "There are no upcoming %s at this time."
+msgstr "No hay próximos %s actualmente."
+
+msgid "There is a new version of %1$s available. %2$s"
+msgstr "Hay una nueva versión de %1$s disponible. %2$s"
+
+msgid ""
+"There is an JSON error with the Event Aggregator server. Please try your "
+"import again later."
+msgstr ""
+"Hay un error JSON con el servidor del Event Aggregator. Intente su "
+"importación de nuevo más tarde."
+
+msgid ""
+"There is an update for %s. %sRenew your license%s to get access to bug fixes,"
+" security updates, and new features."
+msgstr ""
+"Hay una actualización de %s. %sRenueva tu licencia%s para conseguir acceso a "
+"correcciones de errores, actualizaciones de seguridad y nuevas "
+"funcionalidades."
+
+msgid ""
+"There is an update for %s. You'll need to %scheck your license%s to have "
+"access to updates, downloads, and support."
+msgstr ""
+"Hay una nueva actualización de %s. Necesitas %scomprobar tu licencia%s para "
+"tener acceso a actualizaciones, descargas y soporte."
+
+msgid ""
+"There may be an issue with the Event Aggregator server. Please try your "
+"import again later."
+msgstr ""
+"Puede que haya un problema con el servidor del Agregador de Eventos. Por "
+"favor intente su importación más tarde."
+
+msgid "There was a problem processing your import. Please try again."
+msgstr ""
+"Hubo un problema procesando la importanción. Por favor, intentalo de nuevo."
+
+msgid "There was an error fetching the results from your import:"
+msgstr "Se produjo un error al obtener los resultados de la importación:"
+
+msgid "There were no Legacy Events to be Migrated, you are ready to rock!"
+msgstr "No hubo eventos heredados para migrar, ¡estás listo para el rock!"
+
+msgid ""
+"There were no results found for %s this month. Try searching next month."
+msgstr ""
+"No se encontraron resultados para %s este mes. Intenta buscando en el "
+"próximo mes."
+
+msgid "There were no results found for %s."
+msgstr "No se encontraron resultados para %s."
+
+msgid "There were no results found."
+msgstr "No se ha encontrado ningún resultado."
+
+msgid ""
+"These settings impact all list-style views, including List View and Day View."
+msgstr ""
+"Estas configuraciones afectan a todas las vistas de tipo lista, incluyendo a "
+"la vista de lista y a la vista de día."
+
+msgid ""
+"These settings will also apply to events imported in the future via this "
+"scheduled import."
+msgstr ""
+"Esta configuración también se aplicará a los eventos importados en el futuro "
+"a través de esta importación programada."
+
+msgid "Third Party Accounts"
+msgstr "Cuentas de terceros"
+
+msgid "This %s has passed."
+msgstr "Este %s ha pasado."
+
+msgid ""
+"This Action has been deprecated, to comply with WordPress Standards we are "
+"now using Underscores (_) instead of Dashes (-). From: \"%s\" To: \"%s\""
+msgstr ""
+"Esta acción ha quedado en desuso, para cumplir con los estándares de "
+"WordPress, ahora estamos usando subrayados (_) en lugar de guiones (-). "
+"Desde: \"%s\" Hasta: \"%s\""
+
+msgid ""
+"This Filter has been deprecated, to comply with WordPress Standards we are "
+"now using Underscores (_) instead of Dashes (-). From: \"%s\" To: \"%s\""
+msgstr ""
+"Este filtro ha sido desaprobado, para cumplir con los estándares de "
+"WordPress, ahora estamos usando subrayados (_) en lugar de guiones (-). "
+"Desde: \"%s\" Hasta: \"%s\""
+
+msgid "This calendar is powered by The Events Calendar."
+msgstr "Este calendario está creado con The Events Calendar."
+
+msgid "This event is all day on %%startdatewithyear%%."
+msgstr "Evento de día completo el %%startdatewithyear%%."
+
+msgid ""
+"This event is all day starting on %%startdatenoyear%% and ending on "
+"%%enddatewithyear%%."
+msgstr ""
+"Este evento dura todo el día empezando desde %%startdatenoyear%% y "
+"terminando el %%enddatewithyear%%."
+
+msgid "This event is at %%starttime%% on %%startdatewithyear%%."
+msgstr "Este evento es a las %%starttime%% el %%startdatewithyear%%"
+
+msgid ""
+"This event is from %%starttime%% to %%endtime%% on %%startdatewithyear%%."
+msgstr ""
+"Este evento es desde %%starttime%% hasta las %%endtime%% el "
+"%%startdatewithyear%%."
+
+msgid ""
+"This event starts at %%starttime%% on %%startdatenoyear%% and ends at "
+"%%endtime%% on %%enddatewithyear%%"
+msgstr ""
+"Este evento empieza a las %starttime% el %%startdatenoyear%% y finaliza a "
+"las %%endtime%% el %%enddatewithyear%%"
+
+msgid ""
+"This event starts at %%starttime%% on %%startdatenoyear%% and ends on "
+"%%enddatewithyear%%"
+msgstr ""
+"Este evento comienza a las %%starttime%% el %%startdatenoyear%% y termina el "
+"%%enddatewithyear%%."
+
+msgid ""
+"This event will not be re-imported and changes made locally will be "
+"preserved."
+msgstr ""
+"Este evento no se volverá a importar y se conservarán los cambios realizados "
+"localmente."
+
+msgid ""
+"This information is only for guidance and not to be considered as legal "
+"advice."
+msgstr ""
+"Esta información es solo para orientación y no para ser considerada como "
+"asesoramiento legal."
+
+msgid ""
+"This information serves as a guide on what sections need to be modified due "
+"to usage of The Events Calendar and its Add-ons."
+msgstr ""
+"Esta información sirve como una guía sobre qué secciones se deben modificar "
+"debido al uso de The Events Calendar y sus complementos."
+
+msgid ""
+"This is a preview of the type of content you will be getting in during the "
+"import based on what is on the calendar now."
+msgstr ""
+"Esta es una vista previa del tipo de contenido que Usted obtendrá durante la "
+"importación basándose en el contenido que está disponible en el calendario."
+
+msgid ""
+"This is where all of the global network settings for Modern Tribe's The "
+"Events Calendar can be modified."
+msgstr ""
+"Aquí es donde todos los ajustes globales de la red (Network) para The Events "
+"Calendar de  Modern Tribe pueden ser modificados."
+
+msgid "This option allows you to automatically move past events to trash."
+msgstr "Esta opción te permite pasar eventos pasados a la papelera."
+
+msgid ""
+"This option allows you to bulk delete past events. Be careful and backup "
+"your database before removing your events as there is no way to reverse the "
+"changes."
+msgstr ""
+"Esta opción permite eliminar eventos pasados. Ten cuidado y respalda tu base "
+"de datos antes de eliminar tus eventos ya que no hay manera de deshacer los "
+"cambios."
+
+msgid ""
+"This option is disabled when \"Disable the Event Search Bar\" is checked on "
+"the Display settings tab."
+msgstr ""
+"Esta opción está deshabilitada cuando \"Deshabilitar la barra de búsqueda de "
+"eventos.\" está marcada en la pestaña Visualización."
+
+msgid "Three months"
+msgstr "Tres meses"
+
+msgid "Three weeks"
+msgstr "Tres semanas"
+
+msgid "Thu"
+msgstr "Jue"
+
+msgid "Thursday"
+msgstr "Jueves"
+
+msgid "Tickets"
+msgstr "Entradas"
+
+msgid "Time &amp; Date"
+msgstr "Tiempo &amp; Fecha"
+
+msgid "Time Zone Settings"
+msgstr "Ajustes de zona horaria"
+
+msgid "Time Zone:"
+msgstr "Zona horaria:"
+
+msgid "Time range separator"
+msgstr "Separador del rango de tiempo"
+
+msgid "Time zone mode"
+msgstr "Modo de zona horaria"
+
+msgid "Time:"
+msgstr "Hora:"
+
+msgid "Title:"
+msgstr "Título:"
+
+msgid ""
+"To continue using scheduled imports, please enter a valid Event Aggregator "
+"license key under %1$sEvents > Settings > Licenses%2$s."
+msgstr ""
+"Para continuar usando las importaciones programadas, ingrese una clave de "
+"licencia del Agregador de eventos válida en %1$sEventos > Configuración > "
+"Licencias%2$s."
+
+msgid ""
+"To import Meetup events, please be sure to add your Meetup API key on "
+"%1$sEvents > Settings > APIs%2$s"
+msgstr ""
+"Para importar eventos de Meetup, por favor asegúrese de agregar su Clave API "
+"de Meetup en %1$sEventos > Ajustes > APIs%2$s"
+
+msgid "Today"
+msgstr "Hoy"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Tokelau"
+msgstr "Tokelau"
+
+msgid "Tomorrow"
+msgstr "Mañana"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Tribe Events Styles"
+msgstr "Estilos Tribe Events"
+
+msgid "Trinidad and Tobago"
+msgstr "Trinidad y Tobago"
+
+msgid "Troubleshooting common problems"
+msgstr "Soluciones a problemas frecuentes"
+
+msgid "Try to adjust your import settings and try again."
+msgstr "Intenta ajustar la configuración de la importación y prueba de nuevo."
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Tuesday"
+msgstr "Martes"
+
+msgid "Tunisia"
+msgstr "Túnez"
+
+msgid ""
+"Turbo charge your posts admin for any custom post type with sortable filters "
+"and columns, and auto-registration of metaboxes."
+msgstr ""
+"Carga rápidamente tus entradas de administrador para cualquier tipo de "
+"entrada con filtros y columnas que se pueden organizar, así como auto-"
+"registro de metaboxes."
+
+msgid "Turkey"
+msgstr "Turquía"
+
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+msgid "Turks and Caicos Islands"
+msgstr "Islas Turcas y Caicos"
+
+msgid "Tutorial"
+msgstr "Tutorial"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "Two months"
+msgstr "Dos meses"
+
+msgid "Two weeks"
+msgstr "Dos semanas"
+
+msgid "URL:"
+msgstr "URL:"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "Ukraine"
+msgstr "Ucrania"
+
+msgid "Unable to attach an image to the event"
+msgstr "No se puede adjuntar una imagen al evento"
+
+msgid ""
+"Unable to continue inserting data. Please reload this page to continue/try "
+"again."
+msgstr ""
+"No es posible continuar insertando data. Por favor vuelva a cargar esta "
+"página para continuar/intentar de nuevo."
+
+msgid "Unable to find a matching post."
+msgstr "No se puede encontrar una publicación coincidente."
+
+msgid "Unable to find an event with the ID of %s."
+msgstr "No se puede encontrar un evento con la ID de %s."
+
+msgid "Unable to find an import record with the ID of %s."
+msgstr "No se puede encontrar un registro de importación con la ID de %s."
+
+msgid "Unable to get a post of the correct type."
+msgstr "No se puede obtener una publicación del tipo correcto."
+
+msgid ""
+"Unable to run Tribe Extensions. Your website host is running PHP 5.2 or "
+"older, and has likely disabled or misconfigured debug_backtrace(). You, or "
+"your website host, will need to upgrade PHP or properly configure "
+"debug_backtrace() for Tribe Extensions to work."
+msgstr ""
+"No se puede ejecutar Tribe Extensions. El host de su sitio web está "
+"ejecutando PHP 5.2 o una versión anterior, y probablemente ha deshabilitado "
+"o configurado incorrectamente debug_backtrace (). Usted o el anfitrión de su "
+"sitio web necesitarán actualizar PHP o configurar adecuadamente "
+"debug_backtrace () para que Tribe Extensions funcione."
+
+msgid "Unable to save credentials"
+msgstr "No se pueden guardar las credenciales"
+
+msgid "Unable to save scheduled import instance. Please try again."
+msgstr ""
+"No se puede guardar la instancia de importación programada. Inténtalo de "
+"nuevo."
+
+msgid "Unable to save scheduled import. Please try again."
+msgstr "No se puede guardar la importación programada. Inténtalo de nuevo."
+
+msgid "Undo"
+msgstr "Deshacer"
+
+msgid "Unique System Info Key Generated"
+msgstr "Información clave del sistema clave generada"
+
+msgid "United Arab Emirates"
+msgstr "Emiratos Arabes Unidos"
+
+msgid "United Kingdom"
+msgstr "Reino Unido"
+
+msgid "United States"
+msgstr "Estados Unidos"
+
+msgid "United States Minor Outlying Islands"
+msgstr "Islas menores de los EE.UU."
+
+msgid "Unknown"
+msgstr "Desconocido"
+
+msgid "Unknown or not set"
+msgstr "Desconocido o no establecido"
+
+msgid "Unknown service message"
+msgstr "Mensaje de servicio desconocido"
+
+msgid "Unnamed %s"
+msgstr "Sin nombre %s"
+
+msgid "Unnamed Venue"
+msgstr "Recinto sin nombre"
+
+msgid "Upcoming %s"
+msgstr "Próximos %s"
+
+msgid "Upcoming Events"
+msgstr "Próximos eventos"
+
+msgid "Update %s Category"
+msgstr "Actualizar categoría de %s"
+
+msgid "Update Authority"
+msgstr "Actualizar autoridad"
+
+msgid "Update Time Zone Data"
+msgstr "Actualizar datos de zona horaria"
+
+msgid ""
+"Update complete: time zone data has been added to all events in the database."
+msgstr ""
+"Actualización terminada: la zona horaria ha sido añadida a todos los eventos "
+"de la base de datos."
+
+msgid "Update now to version %s."
+msgstr "Actualiza ahora a la versión %s."
+
+msgid "Updated:"
+msgstr "Actualizado:"
+
+msgid "Upgrade Plugin"
+msgstr "Actualizar plugin"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "Upload a CSV File"
+msgstr "Subir un Fichero CSV"
+
+msgid "Upload an ICS File"
+msgstr "Subir un fichero ICS"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Use Saved %s:"
+msgstr "Utilizar %s guardado: "
+
+msgid "Use global import settings"
+msgstr "Usa el ajuste global de importaciones"
+
+msgid "Use manual time zones for each event"
+msgstr "Usar zonas horarias manuales para cada evento"
+
+msgid ""
+"Use the filters to narrow down which events are fetched from Eventbrite."
+msgstr "Usa los filtros para delimitar qué eventos se obtienen de Eventbrite."
+
+msgid ""
+"Use the filters to narrow down which events are fetched from this Google "
+"Calendar."
+msgstr ""
+"Utilice los filtros para reducir la cantidad de eventos que son llamados de "
+"este Google Calendar. "
+
+msgid ""
+"Use the filters to narrow down which events are fetched from this iCalendar "
+"feed."
+msgstr ""
+"Utilice los filtros para reducir la cantidad de eventos que son llamados de "
+"este feed de iCalendar."
+
+msgid "Use the filters to narrow down which events are fetched from this site."
+msgstr ""
+"Utiliza los filtros para restringir qué eventos que se obtienen de este "
+"sitio."
+
+msgid ""
+"Use the filters to narrow down which events are fetched from your ICS file."
+msgstr ""
+"Utilice los filtros para reducir la cantidad de eventos que son llamados de "
+"su archivo ICS."
+
+msgid ""
+"Use the following panel of your customizer to change the styling of your "
+"Calendar and Event pages."
+msgstr ""
+"Utilice el panel siguiente de su personalizador para cambiar el estilo de "
+"sus páginas de Calendario y Evento."
+
+msgid ""
+"Use the options below to configure your imports. Global Import Settings "
+"apply to all imports, but you can also override the global settings by "
+"adjusting the origin-specific options. Check your Event Aggregator Service "
+"Status on the %1$s."
+msgstr ""
+"Utilice las opciones de abajo para configurar sus importaciones. Los Ajustes "
+"Globales de Importación aplican a todas las importaciones, pero también "
+"puede sobreescribir los ajustes globales al ajustar las opciones específicas "
+"de origen. Revise el Estado del Servicio del Agregador de Eventos en %1$s."
+
+msgid ""
+"Use the options below to configure your imports. Looking for more ways to "
+"import events from other websites?"
+msgstr ""
+"Utilice las opciones indicadas abajo para configurar sus importaciones. "
+"¿Está buscando más formas de importar eventos de otros sitios web?"
+
+msgid "Use the site-wide time zone everywhere"
+msgstr "Usar la zona horaria del sitio web para todo"
+
+msgid ""
+"Use this to share calendar data with Google Calendar, Apple iCal and other "
+"compatible apps"
+msgstr ""
+"Usa esto para compartir los datos del calendario con Google Calendar, Apple "
+"iCal y otras aplicaciones compatibles"
+
+msgid "Using stylesheets and page templates"
+msgstr "Usando hojas de estilo y plantillas de página"
+
+msgid "Utah"
+msgstr "Utah"
+
+msgid "Uzbekistan"
+msgstr "Uzbekistán"
+
+msgid "Valid Key! Expires on %s"
+msgstr "¡Clave válida! Caduca el %s"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Venue"
+msgstr "Lugar"
+
+msgid "Venue Address"
+msgstr "Dirección del recinto"
+
+msgid "Venue Address 2"
+msgstr "Dirección del recinto 2"
+
+msgid "Venue City"
+msgstr "Ciudad del recinto"
+
+msgid "Venue Country"
+msgstr "País del recinto"
+
+msgid "Venue Description"
+msgstr "Descripción de la sede"
+
+msgid "Venue Featured Image"
+msgstr "Imagen del Lugar del Evento"
+
+msgid "Venue Name"
+msgstr "Nombre del recinto"
+
+msgid "Venue Phone"
+msgstr "Teléfono del recinto"
+
+msgid "Venue State"
+msgstr "Provincia o Estado del recinto"
+
+msgid "Venue State/Province"
+msgstr "Estado o provincia del recinto:"
+
+msgid "Venue URL"
+msgstr "URL del recinto"
+
+msgid "Venue Website"
+msgstr "Sitio web del recinto"
+
+msgid "Venue Zip"
+msgstr "Código postal del recinto"
+
+msgid "Venue Zip Code"
+msgstr "Código postal del recinto"
+
+msgid ""
+"Venue information: name, address, city, country, state, postal code, phone, "
+"website, geographical coordinates (latitude and longitude)"
+msgstr ""
+"Información de la sede: nombre, dirección, ciudad, país, estado, código "
+"postal, teléfono, sitio web, coordenadas geográficas (latitud y longitud)"
+
+msgid "Venues"
+msgstr "Lugares"
+
+msgid "Venues should be related to this event"
+msgstr "Los lugares deberían estar relacionados con este evento"
+
+msgid ""
+"Venues should contain the specified string in the title, description or "
+"custom fields"
+msgstr ""
+"Los lugares deben contener la cadena especificada en el título, la "
+"descripción o los campos personalizados"
+
+msgid "Venues should have events associated to them"
+msgstr "Los lugares deben tener eventos asociados a ellos"
+
+msgid "Venues should have upcoming events associated to them"
+msgstr "Los lugares deberían tener próximos eventos asociados a ellos"
+
+msgid "Vermont"
+msgstr "Vermont"
+
+msgid "Version"
+msgstr "Versión"
+
+msgid "Viet Nam"
+msgstr "Viet Nam"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "View %1$s %2$s"
+msgstr "Ver %1$s %2$s"
+
+msgid ""
+"The %3$s \"%1$s\" uses the \"/%2$s\" slug: the Events Calendar plugin will "
+"show its calendar in place of the page."
+msgstr ""
+"El %3$s \"%1$s\" utiliza el slug \"/%2$s\": el plugin Events Calendar "
+"mostrará su calendario en lugar de la página."
+
+msgid "The 'categories' parameter contains invalid category slugs or IDs"
+msgstr "El parámetro 'categories' contiene slugs de categoría o IDs inválidos."
+
+msgid "The 'end_date' parameter must be in a supported format"
+msgstr "El parámetro 'end_date' debe estar en un formato compatible"
+
+msgid "The 'page' parameter must be a positive integer greater than 1"
+msgstr "El parámetro 'page' debe ser un nº entero positivo mayor que 1"
+
+msgid "The 'per_page' parameter must be a positive integer greater than 1"
+msgstr "El parámetro 'per_page' debe ser un número entero positivo mayor que 1"
+
+msgid "The 'search' parameter must be a string"
+msgstr "El parámetro 'search' debe ser una cadena"
+
+msgid "The 'start_date' parameter must be in a supported format"
+msgstr "El parámetro 'start_date' debe estar en un formato compatible"
+
+msgid "The 'tags' parameter contains invalid tag slugs or IDs"
+msgstr "El parámetro 'tags' contiene slugs o IDs de etiquetas no válidos"
+
+msgid "The CSV file cannot be found. You may need to re-upload the file."
+msgstr ""
+"No se encuentra el archivo CSV. Podría ser necesario que subas nuevamente el "
+"archivo."
+
+msgid ""
+"The Event Aggregator API responded with bad data. Please <a href=\"https:"
+"//theeventscalendar.com/support/post/\" target=\"_blank\">contact support</a>"
+"."
+msgstr ""
+"El API del Agregador de Eventos respondió con data errónea. Por favor, <a "
+"href=\"https://theeventscalendar.com/support/post/\" target=\"_blank\">"
+"contacte a soporte</a>."
+
+msgid "The Events Calendar"
+msgstr "The Events Calendar"
+
+msgid ""
+"The Events Calendar PRO is a paid Add-On to our open source WordPress plugin "
+"%1$sThe Events Calendar%2$s. PRO offers a whole host of calendar features "
+"including recurring events, custom event attributes, saved venues and "
+"organizers, venue pages, advanced event admin and lots more."
+msgstr ""
+"El Calendario de Eventos PRO es un Add-On premium a nuestro plugin de código "
+"abierto %1$sThe Events Calendar%2$s. PRO le ofrece una variedad de "
+"características de calendario incluyendo eventos recurrentes, atributos "
+"personalizados de eventos, lugares guardados y organizadores, páginas de "
+"ligar, administración avanzada de eventos y mucho más."
+
+msgid "The Events Calendar REST API"
+msgstr "La REST API de The Events Calendar"
+
+msgid ""
+"The Events Calendar REST API allows accessing upcoming events information "
+"easily and conveniently."
+msgstr ""
+"La API REST de The Events Calendar permite acceder a la información de "
+"eventos próximos de forma fácil y cómoda."
+
+msgid ""
+"The Events Calendar could not write WPML default config file: please create "
+"the file manually."
+msgstr ""
+"The Events Calendar no puede escribir en el fichero de configuración por "
+"defecto de WPML: por favor, crea uno manualmente."
+
+msgid "The Events Calendar is API is not providing the site origin correctly."
+msgstr ""
+"La API de The Events Calendar no está proporcionando el sitio de origen "
+"correctamente."
+
+msgid ""
+"The Events Calendar is a carefully crafted, extensible plugin that lets you "
+"easily share your events."
+msgstr ""
+"The Events Calendar es un plugin extensible, realizado con cuidado, que te "
+"permite compartir tus eventos fácilmente."
+
+msgid ""
+"The Events Calendar is a carefully crafted, extensible plugin that lets you "
+"easily share your events. Beautiful. Solid. Awesome."
+msgstr ""
+"The Events Calendar es un plugin meticulosamente realizado y extendible que "
+"permite compartir eventos. Bello. Sólido. Impresionante."
+
+msgid "The Meetup API key is required."
+msgstr "Es necesaria la clave de API de Meetup."
+
+msgid "The TEC REST API link to fetch this event"
+msgstr "El enlace de la TEC REST API para obtener este evento"
+
+msgid "The URL provided could not be reached."
+msgstr "La URL proporcionada no pudo ser alcanzada."
+
+msgid "The URL provided failed to load."
+msgstr "La URL proporcionada no carga correctamente."
+
+msgid "The URL to the event page"
+msgstr "URL de la página del evento"
+
+msgid "The URL to the full size version of the image"
+msgstr "URL de la versión de tamaño completo de la imagen"
+
+msgid "The URL to the organizer page"
+msgstr "URL de la página del organizador"
+
+msgid "The URL to the term archive page"
+msgstr "La URL del término página de archivo"
+
+msgid "The URL to the venue page"
+msgstr "URL de la página del lugar"
+
+msgid "The WordPress term ID"
+msgstr "El ID del término de WordPress"
+
+msgid "The abbreviated event time zone string"
+msgstr "Cadena abreviada del huso horario del evento"
+
+msgid ""
+"The above setting was not saved. Other settings were successfully saved."
+msgstr ""
+"El ajuste anterior no se ha guardado. Los otros ajustes se han guardado "
+"correctamente."
+
+msgid "Event information: website, cost, description, date, time, image"
+msgstr ""
+"Información del evento: sitio web, costo, descripción, fecha, hora, imagen"
+
+msgid "Event, Venue, and Organizer Information"
+msgstr "Información del evento, lugar y organizador"
+
+msgid "Eventbrite"
+msgstr "Eventbrite"
+
+msgid "Eventbrite Import Settings"
+msgstr "Configuración de importación Eventbrite"
+
+msgid "Eventbrite Ticket information: name, description, cost, type, quantity"
+msgstr ""
+"Información de Eventbrite Ticket: nombre, descripción, costo, tipo, cantidad"
+
+msgid "Eventbrite Tickets"
+msgstr "Tickets para Eventbrite"
+
+msgid "Eventbrite Token"
+msgstr "Token Eventbrite"
+
+msgid "Eventbrite imports can fetch up to 50 events from your source."
+msgstr "Las importaciones de Eventbrite pueden obtener hasta 50 eventos."
+
+msgid "Events"
+msgstr "Eventos"
+
+msgid "Events Add-Ons"
+msgstr "Complementos de eventos"
+
+msgid "Events Aggregator Record"
+msgstr "Registros de eventos de Aggregator"
+
+msgid "Events Calendar PRO"
+msgstr "Events Calendar PRO"
+
+msgid "Events Help"
+msgstr "Ayuda"
+
+msgid "Events Import"
+msgstr "Importación de eventos"
+
+msgid "Events List"
+msgstr "Lista de eventos"
+
+msgid "Events Settings"
+msgstr "Ajustes de Eventos"
+
+msgid "Events Tickets"
+msgstr "Entradas de eventos"
+
+msgid ""
+"Events Tickets is a carefully crafted, extensible plugin that lets you "
+"easily sell tickets for your events."
+msgstr ""
+"Events Tickets es un plugin extensible, realizado con cuidado, que te "
+"permite vender tickets para tus eventos fácilmente."
+
+msgid "Events URL slug"
+msgstr "Slug URL para los Eventos"
+
+msgid ""
+"Events could not be imported. Event Aggregator does not yet support events "
+"from that URL. We have noted your request and will review it for support in "
+"the future."
+msgstr ""
+"No se pueden importar eventos. Event Aggregator aún no es compatible con "
+"eventos de esa URL. Hemos tomado nota de tu solicitud y la revisaremos para "
+"ofrecer soporte en el futuro."
+
+msgid ""
+"Events could not be imported. The Events Calendar REST API is disabled on "
+"the requested URL."
+msgstr ""
+"No se pueden importar eventos. La REST API de The Events Calendar ha sido "
+"desactivada en la URL proporcionada."
+
+msgid ""
+"Events could not be imported. The URL provided could be reached and has The "
+"Events Calendar REST API enabled, but returned an empty archive page."
+msgstr ""
+"No se pueden importar eventos. Se puede acceder a la URL proporcionada y se "
+"ha habilitado la API REST de The Events Calendar, pero esta devolvió una "
+"página de archivo vacía."
+
+msgid ""
+"Events could not be imported. The URL provided could be reached and has The "
+"Events Calendar REST API enabled, but returned empty event data."
+msgstr ""
+"No se pueden importar eventos. Se puede acceder a la URL proporcionada y se "
+"ha habilitado la API REST de The Events Calendar, pero esta ha devuelto "
+"datos de eventos vacíos."
+
+msgid ""
+"Events could not be imported. The URL provided could be reached and has The "
+"Events Calendar REST API enabled, but returned malformed data in regard to "
+"the total number of events."
+msgstr ""
+"No se pueden importar eventos. Se puede acceder a la URL proporcionada y se "
+"ha habilitado la API REST de The Events Calendar, pero se han devuelto los "
+"datos con un formato incorrecto con respecto al número total de eventos."
+
+msgid ""
+"Events could not be imported. The URL provided could be reached and has The "
+"Events Calendar REST API enabled, but returned malformed data."
+msgstr ""
+"No se pueden importar eventos. Se puede acceder a la URL proporcionada y se "
+"ha habilitado la API REST de The Events Calendar, pero se han devuelto los "
+"datos con un formato incorrecto."
+
+msgid ""
+"Events could not be imported. The URL provided could be reached and has The "
+"Events Calendar REST API enabled, but there was an error while fetching an "
+"archive page."
+msgstr ""
+"No se pueden importar eventos. Se puede acceder a la URL proporcionada y se "
+"ha habilitado la API REST de The Events Calendar, pero se produjo un error "
+"al buscar una página de archivo."
+
+msgid ""
+"Events could not be imported. The URL provided could be reached and has The "
+"Events Calendar REST API enabled, but there was an error while fetching the "
+"archive control data."
+msgstr ""
+"No se pueden importar eventos. Se puede acceder a la URL proporcionada y se "
+"ha habilitado la API REST de The Events Calendar, pero se produjo un error "
+"al obtener los datos de control de archivo."
+
+msgid ""
+"Events could not be imported. The URL provided could be reached and has The "
+"Events Calendar REST API enabled, but there was an error while fetching the "
+"event data."
+msgstr ""
+"No se pueden importar eventos. Se puede acceder a la URL proporcionada y se "
+"ha habilitado la API REST de The Events Calendar, pero se produjo un error "
+"al obtener los datos del evento."
+
+msgid ""
+"Events could not be imported. The URL provided could be reached and has The "
+"Events Calendar REST API enabled, but there was an error while fetching the "
+"total number of events."
+msgstr ""
+"No se pueden importar eventos. Se puede acceder a la URL proporcionada y se "
+"ha habilitado la API REST de The Events Calendar, pero se produjo un error "
+"al obtener el número total de eventos."
+
+msgid "Events could not be imported. The URL provided could not be reached."
+msgstr ""
+"No se pueden importar eventos. No se pudo acceder a la URL proporcionada."
+
+msgid ""
+"Events could not be imported. The URL provided did not have events in the "
+"proper format."
+msgstr ""
+"Los eventos no pueden importarse. La URL proporcionada no contiene eventos "
+"en el formato apropiado."
+
+msgid "Events could not be imported. The import parameters were invalid."
+msgstr ""
+"No se pueden importar eventos. Los parámetros de importación no eran válidos."
+
+msgid "Events on or after"
+msgstr "Eventos el o después de"
+
+msgid "Events should be assigned one of the specified categories slugs or IDs"
+msgstr ""
+"Los eventos deben ser asignados a uno de los slugs o IDs de las categorías "
+"especificadas"
+
+msgid "Events should be assigned one of the specified organizer IDs"
+msgstr "Se deben asignar a los eventos la ID de un organizador específico"
+
+msgid "Events should be assigned one of the specified tags slugs or IDs"
+msgstr ""
+"Los eventos deben ser asignados a uno de los slugs o IDs de las etiquetas "
+"especificadas"
+
+msgid "Events should be assigned one of the specified venue IDs"
+msgstr "Se deben asignar a los eventos la ID de un lugar "
+
+msgid "Events should be filtered by their featured status"
+msgstr "Los eventos se deben filtrar por su estado destacado"
+
+msgid "Events should contain the specified string in the title or description"
+msgstr ""
+"Los eventos deben contener la cadena especificada en el título o en la "
+"descripción"
+
+msgid "Events should start after the specified date"
+msgstr "Los eventos deben comenzar después de la fecha especificada"
+
+msgid "Events should start before the specified date"
+msgstr "Los eventos deben comenzar antes de la fecha especificada"
+
+msgid "Events template"
+msgstr "Plantilla para eventos"
+
+msgid ""
+"Events will be imported with the same timezone as defined on eventbrite.com. "
+"You can make use of The Events Calendar's"
+msgstr ""
+"Los eventos se importarán con la misma zona horaria definida en eventbrite."
+"com. Puedes hacer uso de El calendario de eventos"
+
+msgid ""
+"Events will be imported with the time zone defined by the source. If no time "
+"zone is specified, events will be assigned your site's default time zone ( "
+"see"
+msgstr ""
+"Los eventos se importarán con la zona horaria definida por la fuente. Si no "
+"se especifica una zona horaria, se le asignará a los eventos la zona horaria "
+"predeterminada de tu sitio (consulta"
+
+msgid "Evergreen"
+msgstr "Evergreen"
+
+msgid "Every %d Minutes"
+msgstr "Cada %d minutos"
+
+msgid ""
+"Every time you rate %s5 stars%s, a fairy is born. Okay maybe not, but more "
+"happy users mean more contributions and help on the forums. The community "
+"NEEDS your voice."
+msgstr ""
+"Cada vez que nos das %s5 estrellas%s un hada nace. De acuerdo, tal vez no, "
+"pero que haya más usuarios contentos significa más contribuciones y ayuda en "
+"los foros. La comunidad NECESITA tu voz."
+
+msgid "Existing theme overrides that may need revision:"
+msgstr "Anulaciones de temas existentes que pueden necesitar revisión:"
+
+msgid "Expired license. Consult your network administrator."
+msgstr "Licencia caducada. Consulta tu administrador de red."
+
+msgid "Export Events"
+msgstr "Exportar Eventos"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Facebook Events"
+msgstr "Eventos en Facebook"
+
+msgid "Failed to import record in row %d."
+msgstr "No se pudo importar el registro de la fila %d."
+
+msgid "Falkland Islands (Malvinas)"
+msgstr "Islas Malvinas"
+
+msgid "Faroe Islands"
+msgstr "Islas Feroe"
+
+msgid "Favorite Imports"
+msgstr "Importaciones favoritas"
+
+msgid "Feature Event"
+msgstr "Evento destacado"
+
+msgid "Featured Highlight Color"
+msgstr "Color de resaltado"
+
+msgid ""
+"Featured events are highlighted on the front end in views, archives, and "
+"widgets."
+msgstr ""
+"Los eventos destacados se destacan en el frente en vistas, archivos y "
+"widgets."
+
+msgid "Features overview"
+msgstr "Descripción de las características"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "February"
+msgstr "Febrero"
+
+msgid "Field ID:"
+msgstr "ID del campo:"
+
+msgid "Fiji"
+msgstr "Fiyi"
+
+msgid "Filter"
+msgstr "Filtrar"
+
+msgid "Filter Bar"
+msgstr "Barra de filtro"
+
+msgid "Filter Bar Color"
+msgstr "Color de la barra de filtro"
+
+msgid "Filter By Frequency"
+msgstr "Filtrar por frecuencia"
+
+msgid "Filter By Origin"
+msgstr "Filtrar por origen"
+
+msgid "Filters"
+msgstr "Filtros"
+
+msgid "Find %s"
+msgstr "Buscar %s"
+
+msgid "Find a Venue"
+msgstr "Encontrar un local"
+
+msgid "Find an Organizer"
+msgstr "Encontrar un organizador"
+
+msgid "Find out more"
+msgstr "Más información"
+
+msgid "Find out more »"
+msgstr "Descubrir más »"
+
+msgid "Finding & extending your calendar."
+msgstr "Búsqueda y ampliación de su calendario."
+
+msgid "Finding your calendar."
+msgstr "Búsqueda de su calendario."
+
+msgid "Finland"
+msgstr "Finlandia"
+
+msgid "Florida"
+msgstr "Florida"
+
+msgid ""
+"For the best results, import venue and organizer files before importing "
+"event files."
+msgstr ""
+"Para tener los mejores resultados, importa los archivos de recintos y "
+"organizadores antes de importar los archivos de eventos."
+
+msgid "France"
+msgstr "Francia"
+
+msgid "Free"
+msgstr "Gratuito"
+
+msgid "French Guiana"
+msgstr "Guayana Francesa"
+
+msgid "French Polynesia"
+msgstr "Polinesia Francesa"
+
+msgid "French Southern Territories"
+msgstr "Tierras Australes y Antárticas Francesas"
+
+msgid "Fri"
+msgstr "Vier"
+
+msgid "Friday"
+msgstr "Viernes"
+
+msgid "Full Styles"
+msgstr "Estilos completos"
+
+msgid "Full debug (all events)"
+msgstr "Depuración completa (todos los eventos)"
+
+msgid "Gabon"
+msgstr "Gabón"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "General"
+msgstr "General"
+
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+msgid "General Theme"
+msgstr "Tema general"
+
+msgid "Generate JSON-LD data"
+msgstr "Generar datos JSON-LD"
+
+msgid "Georgia"
+msgstr "Georgia"
+
+msgid "Germany"
+msgstr "Alemania"
+
+msgid "Getting More Help"
+msgstr "Obtener más ayuda"
+
+msgid "Getting Started"
+msgstr "Cómo comenzar"
+
+msgid "Getting Support"
+msgstr "Obtener soporte"
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "Global Elements"
+msgstr "Elementos Global"
+
+msgid "Global Import Settings"
+msgstr "Ajuste global de importaciones"
+
+msgid "Global configurations for the styling of The Events Calendar"
+msgstr "Configuraciones globales del estilo visual de The Events Calendar"
+
+msgid ""
+"Go to Settings &gt; Calendars and select the calendar you wish to import."
+msgstr ""
+"Ve a Configuración &gt; Calendarios y seleccione el calendario que desea "
+"importar."
+
+msgid "Go to WordPress Updates page"
+msgstr "Ir a la página de actualizaciones de WordPress"
+
+msgid "Go to plugins page"
+msgstr "Ir a la página de plugins"
+
+msgid "Google Calendar"
+msgstr "Google Calendar"
+
+msgid "Google Calendar Import Settings"
+msgstr "Ajustes de las importaciones desde Google Calendar"
+
+msgid "Google Maps API"
+msgstr "Google Maps API"
+
+msgid "Google Maps API key"
+msgstr "Clave de API de Google Maps"
+
+msgid "Google Maps default zoom level"
+msgstr "Nivel de acercamiento (zoom) por defecto en Google Maps"
+
+msgid "Greece"
+msgstr "Grecia"
+
+msgid "Greenland"
+msgstr "Groenlandia"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Guadeloupe"
+msgstr "Guadalupe"
+
+msgid "Guam"
+msgstr "Guam"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guinea"
+msgstr "República de Guinea"
+
+msgid "Guinea-Bissau"
+msgstr "Guinea Bissau"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "HH:MM"
+msgstr "HH:MM"
+
+msgid "Haiti"
+msgstr "Haití"
+
+msgid ""
+"Have an event that runs past midnight? Select a time after that event's end "
+"to avoid showing the event on the next day's calendar."
+msgstr ""
+"¿Tiene eventos que pasen de la medianoche? Controle cuando finaliza el día "
+"oficialmente para evitar agregar su evento en el día siguiente."
+
+msgid "Hawaii"
+msgstr "Hawaii"
+
+msgid "Heard and McDonald Islands"
+msgstr "Islas Heard y McDonald"
+
+msgid "Hello,"
+msgstr "Hola,"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Help page"
+msgstr "Pagina de ayuda"
+
+msgid "Here is the iCal feed URL for your events:"
+msgstr "El URL para el feed de iCal de sus eventos es:"
+
+msgid "Hide & Ignore"
+msgstr "Ocultar e ignorar"
+
+msgid "Hide Event From Event Listings"
+msgstr "Ocultar evento de los listados de eventos"
+
+msgid "Hide Filters"
+msgstr "Ocultar filtros"
+
+msgid "Hide From %s Listings"
+msgstr "Esconder de %s listados"
+
+msgid "Hide and Ignore &#8220;%s&#8221;"
+msgstr "Ocultar e ignorar &#8220;%s&#8221;"
+
+msgid "Hide the following settings tabs on every site:"
+msgstr "Ocultar la(s) siguiente(s) pestaña(s) de opciones en todas los sitios:"
+
+msgid "History"
+msgstr "Histórico"
+
+msgid ""
+"Hmmm... something's wrong with this validator. Please contact %ssupport%s."
+msgstr ""
+"Hmmm... algo falla con este validador. Por favor contacte con %ssoporte%s."
+
+msgid "Holy See (Vatican City State)"
+msgstr "Ciudad del Vaticano"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "How Long You Retain this Data"
+msgstr "Durante cuánto tiempo retienes esta información"
+
+msgid "Hungary"
+msgstr "Hungría"
+
+msgid "ICS"
+msgstr "ICS"
+
+msgid "ICS File"
+msgstr "Archivo ICS"
+
+msgid "ICS File Import Settings"
+msgstr "Ajustes de las importaciones mediante archivos ICS"
+
+msgid "Iceland"
+msgstr "Islandia"
+
+msgid "Idaho"
+msgstr "Idaho"
+
+msgid ""
+"If all goes according to plan, you will have your preview in a few moments."
+msgstr "Si todo va según el plan, tendrás tu vista previa en unos momentos."
+
+msgid ""
+"If required the commands will use the API keys and licenses set for the "
+"current site."
+msgstr ""
+"Si es necesario, los comandos utilizarán las claves API y las licencias "
+"establecidas para el sitio actual."
+
+msgid ""
+"If the Featured highlight color is set to Custom, the following color will "
+"be used:"
+msgstr ""
+"Si el color para resaltar los eventos destacados está ajustado a "
+"Personalizado, el color usado será:"
+
+msgid ""
+"If this event is re-imported, event fields that have not been changed "
+"locally will be overwritten with any changes from the source."
+msgstr ""
+"Si este evento se vuelve a importar, los campos de evento que no se hayan "
+"modificado localmente se sobrescribirán con cualquier cambio desde la fuente."
+
+msgid ""
+"If this event is re-imported, event fields will be overwritten with any "
+"changes from the source."
+msgstr ""
+"Si este evento se vuelve a importar, los campos de eventos se sobrescribirán "
+"con cualquier cambio desde la fuente."
+
+msgid ""
+"If you are familiar with HTML, you can add additional code after the event "
+"template. Some themes may require this to help with styling or layout."
+msgstr ""
+"Si usted esta familiarizado con HTML, puede agregar código adicional después "
+"de la plantilla del evento. Algunos temas pueden requerirlo para hacer que "
+"se vean correctamente."
+
+msgid ""
+"If you are familiar with HTML, you can add additional code before the event "
+"template. Some themes may require this to help with styling or layout."
+msgstr ""
+"Si está familiarizado con HTML, puede agregar código adicional antes de la "
+"plantilla del evento. Algunos temas pueden necesitar esto para ayudar con el "
+"estilo o el diseño."
+
+msgid ""
+"If you create, submit, import, save, or publish Event, Venue, or Organizer "
+"information, such information is retained in the local database:"
+msgstr ""
+"Si creas, envías, importas, guardas o publicas un Evento, Sede o información "
+"del Organizador, dicha información se conserva en la base de datos local:"
+
+msgid ""
+"If you have a valid license for one of our paid plugins, you can %s in our "
+"premium support forums. Our support team monitors the forums and will "
+"respond to your thread within 24-48 hours (during the week)."
+msgstr ""
+"Si tiene una licencia válida para uno de nuestros plugins premium, puede %s "
+"en nuestros foros de soporte premium. Nuestro equipo de soporte monitorea "
+"los foros y responderá su pregunta entre 24-48 horas después de la solicitud "
+"(durante los días de semana)."
+
+msgid ""
+"If you have extended our plugin(s) to send data to a third-party service "
+"such as Eventbrite, Google Maps, or PayPal, user information may be passed "
+"to these external services. These services may be located abroad."
+msgstr ""
+"Si ha extendido nuestros plugins para enviar datos a un servicio externo, "
+"como Eventbrite, Google Maps o PayPal, la información del usuario puede "
+"pasarse a estos servicios externos. Estos servicios pueden estar ubicados en "
+"el exterior."
+
+msgid ""
+"If you have tried the above steps and are still having trouble, you can post "
+"a new thread to our WordPress.org forums for %1$s or %2$s. Our support staff "
+"monitors these forums once a week and would be happy to assist you there. "
+msgstr ""
+"Si ha probado los pasos descritos arriba y aún tiene problemas, puede "
+"realizar una entrada a nuestra cadena de los foros de WordPress.org para "
+"%1$s o %2$s. Nuestro equipo de soporte monitorea estos foros una vez a la "
+"semana y esta feliz de ayudarlo."
+
+msgid "Ignored"
+msgstr "Ignorado"
+
+msgid "Ignored <span class=\"count\">(%s)</span>"
+msgid_plural "Ignored <span class=\"count\">(%s)</span>"
+msgstr[0] "Ignorado <span class=\"count\">(%s)</span>"
+msgstr[1] "Ignorados <span class=\"count\">(%s)</span>"
